@@ -11,12 +11,17 @@ Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! T
 3. **Write a LinkedIn Post or a Small Article:**
    - Share your understanding of DevOps based on the video and your research. Cover the following points:
 
-     - **What is DevOps:**
+     - **What is DevOps ??**
+    
+       
         Ans: A way to build, test, and deploy software faster.
        
        
-     - **What is Automation, Scaling, and Infrastructure:**
+     - **What is Automation, Scaling, and Infrastructure ??**
+    
+       
        Ans:
+
          Automation: Using software to do tasks automatically.
 
          Scaling: Making a system bigger to handle more work.
@@ -25,7 +30,9 @@ Welcome to the #90DaysOfDevOps Challenge with the #TrainWithShubham Community! T
 
        
        
-     - **Why DevOps is Important:**
+     - **Why DevOps is Important ??**
+    
+       
        Ans: DevOps has become a critical component of modern software development and IT operations. It bridges the gap between development and operations teams, fostering collaboration and automation to streamline the software delivery pipeline. It helps to automate testing and deployment.
        
        
