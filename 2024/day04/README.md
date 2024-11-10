@@ -8,9 +8,17 @@ The kernel is a computer program that is the core of a computer’s operating sy
 
 A shell is a special user program that provides an interface for users to interact with operating system services. It accepts human-readable commands from users and converts them into instructions that the kernel can understand. The shell is a command language interpreter that executes commands read from input devices such as keyboards or from files. It starts when the user logs in or opens a terminal.
 
+**My Version Ans:----**
+
+A shell is a program that lets you interact with your computer using text commands.It's like a powerful text-based interface where you can control your system, run programs, and manage files. Think of it as a way to give direct instructions to your computer.
+
 ## What is Linux Shell Scripting?
 
 Linux shell scripting involves writing programs (scripts) that can be run by a Linux shell, such as bash (Bourne Again Shell). These scripts automate tasks, perform system administration tasks, and facilitate the interaction between users and the operating system.
+
+**My Version Ans:----**
+
+Linux shell scripting is a way to automate tasks on a Linux operating system by writing a sequence of commands in a text file .
 
 **Tasks:**
 
