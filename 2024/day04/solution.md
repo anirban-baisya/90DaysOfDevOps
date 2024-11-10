@@ -8,12 +8,33 @@ Example: Automating server setup
 ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day04/image/task%201.png)
 ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day04/image/task%2011.png)
 
+**My Version Ans:----**
+
+In Linux, "bin bash" refers to the full path of the Bash shell (/bin/bash), which is a more feature-rich shell with advanced functionalities, while "bin sh" refers to the path of the standard system shell (/bin/sh), typically a more basic shell that prioritizes compatibility across different Linux systems, meaning a script using "bin sh" will run on most Linux distributions even if they don't have Bash installed; essentially, "bin bash" provides more features but might not be available on every system, while "bin sh" is more portable but has fewer capabilities. 
+ 
+Key points about the difference:
+Functionality:
+Bash offers more advanced features like command history navigation, better command completion, and more complex syntax compared to the basic "sh" shell. 
+ 
+Portability:
+Scripts using "bin sh" are generally more portable across different Linux systems because "sh" is always available, whereas a script using "bin bash" might not run on systems without Bash installed. 
+ 
+
+
+
+
 Task 2: What is `#!/bin/bash`? Can we write `#!/bin/sh` as well?
 - `#!/bin/bash` is called a "shebang" line. It indicates that the script should be run using the Bash shell.
   - `#!/bin/bash`: Uses Bash as the interpreter. It supports advanced features like arrays, associative arrays, and functions.
   - `#!/bin/sh`: Uses the Bourne shell. It’s more POSIX-compliant and is generally compatible with different Unix shells.
 
 ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day04/image/task%202.png)
+
+**My Version Ans:----**
+
+In Linux, "bin bash" refers to the full path of the Bash shell (/bin/bash), which is a more feature-rich shell with advanced functionalities, while "bin sh" refers to the path of the standard system shell (/bin/sh), typically a more basic shell that prioritizes compatibility across different Linux systems, meaning a script using "bin sh" will run on most Linux distributions even if they don't have Bash installed; essentially, "bin bash" provides more features but might not be available on every system, while "bin sh" is more portable but has fewer capabilities.
+
+
 
 Task 3: Write a Shell Script that prints `I will complete #90DaysOfDevOps challenge`.
 
